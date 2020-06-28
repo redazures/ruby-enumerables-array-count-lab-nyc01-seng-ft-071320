@@ -6,7 +6,8 @@ def count_strings(array)
   end
 end
 
-count_strings(2,3,"james","ben")
+ar=[2,3,"james","ben"]
+count_strings()
 
 def count_empty_strings(array)
   # Return the total number of EMPTY strings in the provided array using the count enumerable
