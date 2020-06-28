@@ -4,6 +4,7 @@ def count_strings(array)
   array.each do|element|
     count+=1 if element.kind_of? String
   end
+  count
 end
 
 ar=[2,3,"james","ben"]
