@@ -18,4 +18,4 @@ def count_empty_strings(array)
   end
   count
 end
-puts count_strings(ar)
+puts count_empty_strings(ar)
