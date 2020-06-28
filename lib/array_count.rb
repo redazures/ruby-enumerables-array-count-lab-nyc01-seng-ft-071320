@@ -7,7 +7,7 @@ def count_strings(array)
   count
 end
 
-ar=[2,3,"james","ben"]
+ar=[2,3,"james","ben"," "]
 puts count_strings(ar)
 
 def count_empty_strings(array)
